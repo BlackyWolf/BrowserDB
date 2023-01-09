@@ -1,0 +1,33 @@
+{
+    "name": "browserdb",
+    "version": "0.1.0",
+    "description": "A library for managing data stored in a browser.",
+    "main": "index.js",
+    "author": "Blacky Wolf",
+    "license": "MIT",
+    "keywords": [
+        "browser",
+        "db",
+        "database",
+        "indexeddb",
+        "localStorage",
+        "browserdb"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BlackyWolf/BrowserDB.git"
+    },
+    "bugs": {
+        "url": "https://github.com/BlackyWolf/BrowserDB/issues"
+    },
+    "homepage": "https://github.com/BlackyWolf/BrowserDB#readme",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    }
+}
